@@ -1,2 +1,2 @@
 # plug_cbchats
-Plugin do Community Builder for Tabapapo Chat Component.
+Plugin to Community Builder for Tabapapo Chat Component.
