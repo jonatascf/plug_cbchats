@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cbinstall version="1.0" type="plugin" group="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:../../../../../validation/ahawow.xsd">
+	<name>CB Chats</name>
+	<author>Jonatas C. Ferreira</author>
+	<creationDate>2022-08-29</creationDate>
+	<copyright>Copyright (C) 2022 Tabaoca. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
+	<authorEmail>jonatas@tabaoca.org</authorEmail>
+	<authorUrl>www.tabaoca.org</authorUrl>
+	<description>Allows display of users chats form Tabapapo Chat Component.</description>
+	<version>2.7.3</version>
+	<files>
+		<filename plugin="cbchats">cbchats.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<tabs>
+		<tab name="Chats" translated-name="Chats" description="Tabapapo Chat Component." class="cbchatsTab" fields="0" sys="1" position="canvas_main_middle" displaytype="menu">
+		</tab>
+	</tabs>
+	<database>
+	</database>
+</cbinstall>
